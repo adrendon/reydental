@@ -189,6 +189,15 @@
 	width: 100%;
 }
 
+.page-inner section {
+	width: 100%;
+	overflow-x: scroll;
+}
+
+.page-inner-content {
+	width: 50%;
+}
+
 /*.page-inner section {
 	padding-bottom: 1em;
 }*/
