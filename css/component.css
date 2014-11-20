@@ -153,7 +153,7 @@
 
 .page-right {
 	-webkit-transform: translateX(100%);
-	background: #2b79ae url('../img/figureOrigin002.jpg') no-repeat;
+	background: #2f7cb0 url('../img/figureOrigin002.jpg') no-repeat;
 	background-position: right -30rem bottom -10rem;
 	background-size: cover;
 	color: #fff;
